@@ -1,4 +1,5 @@
 Welcome to my Git branching challenge!
+Line 1: Edited by john.eufracio on feature branch
 Line 1: Updated on main branch
 Line 2: Original content
 Line 3: Original content
