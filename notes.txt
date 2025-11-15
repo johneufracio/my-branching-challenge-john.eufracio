@@ -1,4 +1,4 @@
 Welcome to my Git branching challenge!
-Line 1: Original content
+Line 1: Updated on main branch
 Line 2: Original content
 Line 3: Original content
